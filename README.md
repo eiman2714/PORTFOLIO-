@@ -103,14 +103,12 @@ Special thanks to:
 
 ## 🎯 Project Goals
 
-This portfolio was designed to:
-- ✨ Showcase Eiman's skills and projects in an elegant way
-- 🌸 Reflect her personality with a soft, feminine aesthetic
-- 💼 Present professional information clearly for potential employers
-- 🎨 Demonstrate front-end development capabilities
-- 📱 Provide a responsive experience across all devices
 
 
----
 
-*Happy coding! 🚀*
+
+
+
+
+
+*
