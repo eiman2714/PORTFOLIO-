@@ -43,16 +43,6 @@ A beautiful, girly pastel-themed portfolio website designed for Eiman Waheed - a
 - **Font Awesome 6** - Icon library for social media and UI icons
 - **Google Fonts (Quicksand)** - Soft, elegant font for the entire site
 
----
-
-## 📁 File Structure
-
-```
-eiman-waheed-portfolio/
-├── index.html          # Main HTML file with all content
-├── style.css           # Complete stylesheet with pastel theme
-├── script.js           # JavaScript for interactivity & features
-└── README.md           # This file
 ```
 
 <!-- Email -->
@@ -65,23 +55,6 @@ eimanwaheed27@gmail.com
 University of Education Attock
 ```
 
-
-
-### Change Color Scheme
-In `style.css`, find these color variables and replace them:
-```css
-/* Main pink color */
-#e88ba0    /* Current pink */
-#d47a8f    /* Darker pink */
-
-/* Background */
-#fcf4f9    /* Current background */
-
-/* Text colors */
-#4a2e3f    /* Dark text */
-#b08a9a    /* Medium text */
-#7a5a6a    /* Light text */
-```
 
 ## 📱 Responsive Design
 
