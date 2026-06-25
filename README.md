@@ -43,18 +43,6 @@ A beautiful, girly pastel-themed portfolio website designed for Eiman Waheed - a
 - **Font Awesome 6** - Icon library for social media and UI icons
 - **Google Fonts (Quicksand)** - Soft, elegant font for the entire site
 
-```
-
-<!-- Email -->
-eimanwaheed27@gmail.com
-
-<!-- Phone -->
-0324 9332790
-
-<!-- University -->
-University of Education Attock
-```
-
 
 ## 📱 Responsive Design
 
